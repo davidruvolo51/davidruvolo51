@@ -1,5 +1,5 @@
 
-![davidruvolo51 profile](https://raw.githubusercontent.com/davidruvolo51/davidruvolo51/master/static/davidruvolo51.png)
+![davidruvolo51 profile](https://raw.githubusercontent.com/davidruvolo51/davidruvolo51/main/static/davidruvolo51.png)
 
 ## @davidruvolo51
 
