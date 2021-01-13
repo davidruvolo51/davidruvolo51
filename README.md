@@ -10,6 +10,9 @@ I'm interested in web-based applications that communicate research results using
 I like to experiment with web-based applicantions using R, and I write about it from time to time.
 
 <!-- BLOG-POST-LIST:START -->
+- [Listbox Widget](https://davidruvolo51.github.io/shinytutorials/tutorials/listbox-widget/)
+- [Creating Internal Links](https://davidruvolo51.github.io/shinytutorials/tutorials/shiny-link/)
+- [Setting Document Attributes](https://davidruvolo51.github.io/shinytutorials/tutorials/setting-html-attributes/)
 <!-- BLOG-POST-LIST:END -->
 
 You can find more @ [davidruvolo51.github.io/shinytutorials](https://davidruvolo51.github.io/shinytutorials).
