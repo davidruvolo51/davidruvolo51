@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://davidruvolo51.github.io/shinytutorials/rss"
-          template: "$newline - [$title: $description]($url)"
+          template: "$newline- [$title: $description]($url)"
