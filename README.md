@@ -14,7 +14,6 @@ I like to experiment with web-based applicantions using R (Shiny, Plumber, React
 - [Creating Internal Links: Defining Application Navigation](https://davidruvolo51.github.io/shinytutorials/tutorials/shiny-link/)
 - [Setting Document Attributes: Improving the accessibility of Shiny apps](https://davidruvolo51.github.io/shinytutorials/tutorials/setting-html-attributes/)
 - [Get Window Dimensions: How to send data from JavaScript and use it in Shiny](https://davidruvolo51.github.io/shinytutorials/tutorials/get-window-dims/)
-- [Drag and Drop Example: Learn how to create movable elements in shiny apps.](https://davidruvolo51.github.io/shinytutorials/tutorials/drag-and-drop/)
-<!-- BLOG-POST-LIST:END -->
+- [Drag and Drop Example: Learn how to create movable elements in shiny apps.](https://davidruvolo51.github.io/shinytutorials/tutorials/drag-and-drop/)<!-- BLOG-POST-LIST:END -->
 
 You can find more @ [davidruvolo51.github.io/shinytutorials](https://davidruvolo51.github.io/shinytutorials) & [github.com/davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials).
