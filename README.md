@@ -7,7 +7,7 @@ I'm interested in web-based applications that communicate research results using
 
 ## Latest Posts 📓
 
-I like to experiment with web-based applicantions using R (Shiny, Plumber, React + R, etc.), and I write about it from time to time.
+I like to experiment with web-based applications using R (Shiny, Plumber, React + R, etc.), and I write about it from time to time.
 
 <!-- BLOG-POST-LIST:START -->
 - [Listbox Widget: Creating a customizable dropdown menu component for Shiny](https://davidruvolo51.github.io/shinytutorials/tutorials/listbox-widget/)
