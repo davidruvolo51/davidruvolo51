@@ -7,19 +7,13 @@ I'm interested in web-based applications that communicate research results using
 
 ## Current Projects 😎
 
-🥳 [rheroicons](https://github.com/davidruvolo51/rheroicons) is now on CRAN!
-
-I like to experiment with web-based applications using R. The repository [shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials) contains a series of examples for building custom Shiny applications. Checkout the accompanying site [davidruvolo51.github.io/shinytutorials/](https://davidruvolo51.github.io/shinytutorials/).
-
 Here are some of the latest things that I have been experimenting with.
 
-- 📖 [Updating Publications in the cloud: An experiment with GitHub Actions](https://github.com/davidruvolo51/update-publications-workflow)
-
-I've also been working on integrating Frontend, R, and application bundlers.
-
-- 🚂 [React + Express + Node + Webpack](https://github.com/davidruvolo51/r-react-demo)
-- 🪠 [Vue + Plumber + Vite](https://github.com/davidruvolo51/r-vue-app)
-- 📦 [React + Plumber + Parcel](https://github.com/davidruvolo51/r-plumber-app)
+- 📖 [Updating publication records with GitHub Actions](https://github.com/davidruvolo51/update-publications-workflow)
+- 🚂 [R, React, Node, Express, and Webpack](https://github.com/davidruvolo51/r-react-demo)
+- 🪠 [R, Vue, Plumber, and Vite](https://github.com/davidruvolo51/r-vue-app)
+- 📦 [R, React, Plumber, and Parcel](https://github.com/davidruvolo51/r-plumber-app)
+- 🍽 [Shiny and Parcel](https://github.com/davidruvolo51/shiny-parcel-template)
 
 ## Latest Posts 📓
 
@@ -32,4 +26,4 @@ I occasionally write about the things that I am working on.
 - [Get Window Dimensions: How to send data from JavaScript and use it in Shiny](https://davidruvolo51.github.io/shinytutorials/tutorials/get-window-dims/)
 - [Drag and Drop Example: Learn how to create movable elements in shiny apps.](https://davidruvolo51.github.io/shinytutorials/tutorials/drag-and-drop/)<!-- BLOG-POST-LIST:END -->
 
-You can find more @ [davidruvolo51.github.io/shinytutorials](https://davidruvolo51.github.io/shinytutorials) & [github.com/davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials).
+You can find more @ [github.com/davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials).
