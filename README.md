@@ -7,7 +7,7 @@ I'm interested in web-based applications that communicate research results using
 
 ## Current Projects 😎
 
-Here are some of the latest things that I have been experimenting with.
+Here are some of the things that I am working on.
 
 - 📖 [Updating publication records with GitHub Actions](https://github.com/davidruvolo51/update-publications-workflow)
 - 🚂 [R, React, Node, Express, and Webpack](https://github.com/davidruvolo51/r-react-demo)
