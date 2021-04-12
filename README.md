@@ -14,6 +14,7 @@ Here are some of the things that I am working on.
 - 🪠 [R, Vue, Plumber, and Vite](https://github.com/davidruvolo51/r-vue-app)
 - 📦 [R, React, Plumber, and Parcel](https://github.com/davidruvolo51/r-plumber-app)
 - 🍽 [Shiny and Parcel](https://github.com/davidruvolo51/shiny-parcel-template)
+- 🍽 [Shiny and Webpack](https://github.com/davidruvolo51/shiny-webpack-template)
 
 ## Latest Posts 📓
 
