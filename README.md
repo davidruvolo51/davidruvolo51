@@ -13,8 +13,8 @@ Here are some of the things that I am working on.
 - 🚂 [R, React, Node, Express, and Webpack](https://github.com/davidruvolo51/r-react-demo)
 - 🪠 [R, Vue, Plumber, and Vite](https://github.com/davidruvolo51/r-vue-app)
 - 📦 [R, React, Plumber, and Parcel](https://github.com/davidruvolo51/r-plumber-app)
-- 🍽 [Shiny and Parcel](https://github.com/davidruvolo51/shiny-parcel-template)
-- 🍽 [Shiny and Webpack](https://github.com/davidruvolo51/shiny-webpack-template)
+- 🍽 [Shiny and Parcel Template](https://github.com/davidruvolo51/shiny-parcel-template)
+- 🍽 [Shiny and Webpack Template](https://github.com/davidruvolo51/shiny-webpack-template)
 
 ## Latest Posts 📓
 
