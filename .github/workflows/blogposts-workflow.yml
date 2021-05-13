@@ -15,7 +15,7 @@ jobs:
           python-version: 3.8 #install the python needed
       - name: execute python script
         run: |
-          python blogposts.py
+          python python/blogposts.py
       # Commit changes using the var `should_commit`
       - name: Commit
         continue-on-error: true
