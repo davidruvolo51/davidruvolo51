@@ -2,9 +2,9 @@
 #' FILE: blogposts.py
 #' AUTHOR: David Ruvolo
 #' CREATED: 2021-05-05
-#' MODIFIED: 2021-05-05
+#' MODIFIED: 2021-05-13
 #' PURPOSE: fetch blog posts
-#' STATUS: in.progress
+#' STATUS: working
 #' PACKAGES: feedparser
 #' COMMENTS: NA
 #'////////////////////////////////////////////////////////////////////////////
