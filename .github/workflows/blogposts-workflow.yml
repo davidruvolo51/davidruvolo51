@@ -1,0 +1,27 @@
+name: Update recent blog posts
+on:
+  schedule:
+    - cron: '0 8 * * 5' # Runs every friday at 8.00
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: execute python script
+        run: |
+          python blogposts.py
+      # Commit changes using the var `should_commit`
+      - name: Commit
+        continue-on-error: true
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add --all
+          git commit -m 'updated recent blogposts'
+          git push
