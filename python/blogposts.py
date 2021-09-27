@@ -28,7 +28,7 @@ def build_md(data):
         title = d['title']
         summary = d['summary']
         url = d['link']
-        m = '- [' + title + ': ' + summary + '](' + url + ')
+        m = '- [' + title + ': ' + summary + '](' + url + ')'
         md.append(m)
         md.append('\n')
     return md
