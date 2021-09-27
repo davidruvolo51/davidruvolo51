@@ -7,7 +7,7 @@ I'm interested in web-based applications that communicate research results using
 
 ## Current Projects 😎
 
-Here are some of the things that I am working on. For more information, checkout my R universe page [davidruvolo51.r-universe.dev](https://davidruvolo51.r-universe.dev]
+Here are some of the things that I am working on. For more information, checkout my R universe page [davidruvolo51.r-universe.dev](https://davidruvolo51.r-universe.dev)
 
 - 📖 [Updating publication records with GitHub Actions](https://github.com/davidruvolo51/update-publications-workflow)
 - 🚂 [R, React, Node, Express, and Webpack](https://github.com/davidruvolo51/r-react-demo)
