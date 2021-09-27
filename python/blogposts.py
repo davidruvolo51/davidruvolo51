@@ -29,8 +29,7 @@ def build_md(data):
         summary = d['summary']
         url = d['link']
         dt = d['published_parsed']
-        # date = "-".join(map(str, [dt.tm_year, dt.tm_mon, dt.tm_mday]))
-        m = '- [' + title + ': ' + summary + '](' + url + ') #, *' + date + '*.'
+        m = '- [' + title + ': ' + summary + '](' + url + ')
         md.append(m)
         md.append('\n')
     return md
