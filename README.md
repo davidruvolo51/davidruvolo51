@@ -21,11 +21,11 @@ Here are some of the things that I am working on. For more information, checkout
 I occasionally write about the things that I am working on.
 
 <!-- BlogPosts: start --->
-- [Listbox Widget: Creating a customizable dropdown menu component for Shiny](https://davidruvolo51.github.io/shinytutorials/tutorials/listbox-widget/), *2020-9-3*.
-- [Creating Internal Links: Defining Application Navigation](https://davidruvolo51.github.io/shinytutorials/tutorials/shiny-link/), *2020-8-2*.
-- [Setting Document Attributes: Improving the accessibility of Shiny apps](https://davidruvolo51.github.io/shinytutorials/tutorials/setting-html-attributes/), *2020-7-28*.
-- [Get Window Dimensions: How to send data from JavaScript and use it in Shiny](https://davidruvolo51.github.io/shinytutorials/tutorials/get-window-dims/), *2020-5-19*.
-- [Drag and Drop Example: Learn how to create movable elements in shiny apps.](https://davidruvolo51.github.io/shinytutorials/tutorials/drag-and-drop/), *2020-5-12*.
+- [Listbox Widget: Creating a customizable dropdown menu component for Shiny](https://davidruvolo51.github.io/shinytutorials/tutorials/listbox-widget/)
+- [Creating Internal Links: Defining Application Navigation](https://davidruvolo51.github.io/shinytutorials/tutorials/shiny-link/)
+- [Setting Document Attributes: Improving the accessibility of Shiny apps](https://davidruvolo51.github.io/shinytutorials/tutorials/setting-html-attributes/)
+- [Get Window Dimensions: How to send data from JavaScript and use it in Shiny](https://davidruvolo51.github.io/shinytutorials/tutorials/get-window-dims/)
+- [Drag and Drop Example: Learn how to create movable elements in shiny apps.](https://davidruvolo51.github.io/shinytutorials/tutorials/drag-and-drop/)
 <!-- BlogPosts: end --->
 
 You can find more @ [github.com/davidruvolo51/shinyAppTutorials](https://github.com/davidruvolo51/shinyAppTutorials).
