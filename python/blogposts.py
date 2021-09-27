@@ -2,10 +2,10 @@
 #' FILE: blogposts.py
 #' AUTHOR: David Ruvolo
 #' CREATED: 2021-05-05
-#' MODIFIED: 2021-05-13
+#' MODIFIED: 2021-09-27
 #' PURPOSE: fetch blog posts
 #' STATUS: working
-#' PACKAGES: feedparser
+#' PACKAGES: requests, feedparser
 #' COMMENTS: NA
 #'////////////////////////////////////////////////////////////////////////////
 
@@ -29,8 +29,8 @@ def build_md(data):
         summary = d['summary']
         url = d['link']
         dt = d['published_parsed']
-        date = "-".join(map(str, [dt.tm_year, dt.tm_mon, dt.tm_mday]))
-        m = '- [' + title + ': ' + summary + '](' + url + '), *' + date + '*.'
+        # date = "-".join(map(str, [dt.tm_year, dt.tm_mon, dt.tm_mday]))
+        m = '- [' + title + ': ' + summary + '](' + url + ') #, *' + date + '*.'
         md.append(m)
         md.append('\n')
     return md
